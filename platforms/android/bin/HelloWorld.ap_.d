@@ -13,6 +13,7 @@
 /Users/macmini/Desktop/Projetos Phonegap/Apps/phonegap-camera/platforms/android/bin/res/drawable-xhdpi/icon.png \
 /Users/macmini/Desktop/Projetos Phonegap/Apps/phonegap-camera/platforms/android/assets/www \
 /Users/macmini/Desktop/Projetos Phonegap/Apps/phonegap-camera/platforms/android/assets/www/config.xml \
+/Users/macmini/Desktop/Projetos Phonegap/Apps/phonegap-camera/platforms/android/assets/www/configOld.xml \
 /Users/macmini/Desktop/Projetos Phonegap/Apps/phonegap-camera/platforms/android/assets/www/cordova.js \
 /Users/macmini/Desktop/Projetos Phonegap/Apps/phonegap-camera/platforms/android/assets/www/cordova_plugins.js \
 /Users/macmini/Desktop/Projetos Phonegap/Apps/phonegap-camera/platforms/android/assets/www/css \
